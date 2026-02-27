@@ -12,5 +12,4 @@ permalink: /about/
 
 ## 联系方式
 
-- 邮箱：cgn.wang@gmail.com
-- GitHub: [CGNwang](https://github.com/CGNwang)
+- 邮箱daisherry99.wang@gmail.com
