@@ -2,13 +2,13 @@
 title: "请输入文本（说实话真没想好网站要叫啥）"
 description: "虽世殊事异，所以兴怀，其致一也。后之览者，亦将有感于斯文。"
 baseurl: ""  # 如果你的网站在子目录，填写子目录路径
-url: "https://CGNwang.github.io"  # 你的网站完整URL
+url: "https://dddaisherry.github.io"  # 你的网站完整URL
 
 # 作者信息
 author: 
-  name: "王思维"
-  email: "cgn.wang@gmail.com"
-  github: "CGNwang"
+  name: "代诗瑞"
+  email: "daisherry99@gmail.com"
+  github: "daisherry99-sketch"
 
 # 构建设置
 markdown: kramdown  # Markdown解析器
